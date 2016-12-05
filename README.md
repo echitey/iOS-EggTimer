@@ -3,4 +3,4 @@ iOS-EggTimer App
 Egg Timer App using Timers  
 
 
-![alt text](eggtimer.png "Description goes here")
+![alt text](eggtimer.png "EggTimer App ScreenShot")
